@@ -7,4 +7,4 @@ TestCase("AdderTest", {
 		assertEquals(3, dec(4));
 		assertEquals(3, inc(dec(3)));
 	}
-})
+});
